@@ -93,7 +93,7 @@ locations:
 </p>
 
 <p>
-  To register for this event please complete the Google Form found <a href="https://docs.google.com/forms/d/e/1FAIpQLSfDZuhZVlp-cGzCr4TClNaHrp2Te2ix4TRH6Wvxhq0UT4df5Q/viewform?usp=sf_link">HERE</a>.
+  To register for this event please complete the Google Form found <a href="https://forms.gle/4zkMM3kohSCpad8b7">HERE</a>.
 </p>
 
 <!--

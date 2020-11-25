@@ -167,6 +167,12 @@ as an instructor: the details are available at
 If you have any questions about the workshop, the reading material,
 or anything else, please get in touch.
 
+Lastly, the registration process for this workshop is outside the standard 
+registration process for The Carpentries.  In order for your participation in this 
+workshop to count towards your certification as an instructor you will also need 
+to fill out the form 
+<a href="https://amy.carpentries.org/forms/request_training/">HERE</a>.
+
 
 <h3>Code of Conduct</h3>
 

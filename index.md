@@ -115,7 +115,7 @@ locations:
 
 {% if online == "online" %}
 
-This is an online event. We will meet using the online videoconference software Zoom. You will need to <a href="https://zoom.us/download">download and install their client</a> to connect with your instructors. If you are registered then you will be able to visit <a href"https://carpentries.zoom.us/my/carpentriesroom1">https://carpentries.zoom.us/my/carpentriesroom1</a> on the training days to gain access.
+This is an online event. We will meet using the online videoconference software Zoom. You will need to <a href="https://zoom.us/download">download and install their client</a> to connect with your instructors. If you are registered then you will be able to visit <a href="https://carpentries.zoom.us/my/carpentriesroom1">https://carpentries.zoom.us/my/carpentriesroom1</a> on the training days to gain access.
 
 <!-- <{{ loc.address }}>. -->
 
